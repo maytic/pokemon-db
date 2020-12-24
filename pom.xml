@@ -14,10 +14,6 @@
 	<name>pokemondb webservice</name>
 	<description>REST webservice for pokemondb</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
