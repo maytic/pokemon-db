@@ -13,7 +13,7 @@ public class Pokemon{
     // set primary key
     @Id
     @GeneratedValue
-    private int id;
+    private Integer id;
 
     private String type1, type2;
     private String species;
@@ -244,11 +244,11 @@ public class Pokemon{
         this.totalBase = totalBase;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

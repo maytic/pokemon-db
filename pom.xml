@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.maytic</groupId>
 	<artifactId>pokemondb</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2SNAPSHOT</version>
 	<name>pokemondb webservice</name>
 	<description>REST webservice for pokemondb</description>
 
