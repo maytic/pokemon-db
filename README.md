@@ -4,9 +4,7 @@
 
 ## Tech/framework used
 <b>Built with</b>
-- Springboot
-- Springboot H2
-- Springboot Web
+- Picasso
 - Java Amazon Correto
 
 ## API Reference
